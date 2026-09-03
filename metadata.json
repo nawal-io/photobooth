@@ -1,0 +1,10 @@
+{
+  "name": "SnapStrip Photobooth",
+  "description": "Aplikasi photobooth interaktif modern dengan kamera live sekuensial, filter real-time, kustomisasi strip foto, stiker interaktif, dan download kualitas tinggi.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
