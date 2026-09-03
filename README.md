@@ -2,7 +2,7 @@
 
 **SnapStrip Photobooth** adalah aplikasi web *photobooth* interaktif bergaya retro yang berjalan 100% di sisi klien (*client-side*). Aplikasi ini memungkinkan pengguna mengambil foto sekuensial menggunakan webcam, mengaplikasikan filter *real-time*, mengostumisasi *frame strip*, serta menyimpan riwayat foto secara lokal tanpa bantuan *backend* server.
 
-![SnapStrip Photobooth Preview](https://raw.githubusercontent.com/nawalauliahasanhunaifa/arsip-laporan-praktikum/main/assets/wip.png)
+![SnapStrip Photobooth Preview](./assets/banner2.png)
 
 ---
 
